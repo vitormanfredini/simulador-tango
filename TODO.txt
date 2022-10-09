@@ -1,0 +1,9 @@
+fazer s— somar pontos pro semaforo 1 vez por segundo pra minimizar possibilidade de overflow no int
+fazer carros somarem pontos pra um semaforo mesmo quando nao estao na via e estao querendo entrar nela e ela ta entupida
+possibilidade dos carros comecarem de algum lugar que nao seja o inicio da via
+fazer carros nao se atravessarem (graficamente em faixas separadas)
+movimentacao do mouse/teclado ta estranha
+fazer os carros (assim como os semaforos) se movimentarem em funcao da constante de TEMPOATUALIZACAOMS
+
+fazer carros esperarem uma distancia maior do carro da frente pra andarem quando eles estiverem parados.
+fazer cruzamentos revezarem qual carro vai entrar.

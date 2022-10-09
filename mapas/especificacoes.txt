@@ -1,0 +1,15 @@
+[vias]
+id,xinicio,yinicio,zinicio,xfinal,yfinal,zfinal,numerodevias,nome
+1,1.0,1.0,1.0,2.0,1.0,-5.0,2,Avenida Sto. Amaro
+
+[semaforos]
+via1,via2,tempoverde(milisegundos),tempovermelho(milisegundos),estado inicial (1 para verde na via1 e 2 para vermelho na via1)
+5,8,15000,9000,2
+
+[carros]
+velocidade
+0.02
+
+[conversoes]
+idcarro,viaorigem,viadestino (as duas vias da conversao na ordem em que a conversao Ž feita. a via de destino pode ser -1 que significa que o carro chega ao seu destino),lado (1 para direita e 2 para esquerda)
+1,4,2,1
